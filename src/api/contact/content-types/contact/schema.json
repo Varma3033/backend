@@ -1,0 +1,45 @@
+{
+  "kind": "singleType",
+  "collectionName": "contacts",
+  "info": {
+    "singularName": "contact",
+    "pluralName": "contacts",
+    "displayName": "Contact"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "contactTitle": {
+      "type": "string"
+    },
+    "contactDescription": {
+      "type": "string"
+    },
+    "emailTitle": {
+      "type": "string"
+    },
+    "email": {
+      "type": "email"
+    },
+    "social1": {
+      "type": "string"
+    },
+    "social1username": {
+      "type": "string"
+    },
+    "social1URL": {
+      "type": "string"
+    },
+    "social2": {
+      "type": "string"
+    },
+    "social2username": {
+      "type": "string"
+    },
+    "social2URL": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "kind": "singleType",
+  "collectionName": "project_page_infos",
+  "info": {
+    "singularName": "project-page-info",
+    "pluralName": "project-page-infos",
+    "displayName": "ProjectPageInfo"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "projectPageTitle": {
+      "type": "string"
+    },
+    "projectPageDesc": {
+      "type": "string"
+    }
+  }
+}
